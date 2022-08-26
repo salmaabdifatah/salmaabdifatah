@@ -1,7 +1,7 @@
 ### Hello 👋
 
-- Im currently learning fullstack software development through the Black Codher Bootcamp 👩🏾‍💻
-- I am interested in the health tech space
+- I'm currently learning fullstack software development through the Black Codher Bootcamp 👩🏾‍💻
+- I am a scientist interested in the health tech space
 - I love all things books 📚 especially African/Carribean historical and literary fiction 
 
 
