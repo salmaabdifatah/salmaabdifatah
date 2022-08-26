@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+- Im currently learning fullstack software development through the Black Codher Bootcamp 👩🏾‍💻
+- I am interested in the health tech space
+- I love all things books 📚 especially African/Carribean historical and literary fiction 
+
 
 <!--
 **salmaabdifatah/salmaabdifatah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
